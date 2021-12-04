@@ -71,6 +71,7 @@
     color:black;
     text-decoration: none;
     padding: 19px 39px 18px 39px;
+   border-radius: 5px;
 }
 .btn2:hover, .btn2:focus {
     background-color:white;
